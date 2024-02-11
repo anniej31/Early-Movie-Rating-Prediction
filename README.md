@@ -35,10 +35,10 @@ The target variable of this study is the IMDB average user rating and the depend
 
 ### 3.3 Data Preparation
 The various tasks carried out in this phase are,
-Exploratory Data Analysis
-Data Cleaning
-Feature Transformation and Extraction
-Data Partitioning
+1. Exploratory Data Analysis
+2. Data Cleaning
+3. Feature Transformation and Extraction
+4. Data Partitioning
 
 ### 3.4 Modelling
 
